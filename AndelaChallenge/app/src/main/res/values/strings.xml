@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC Phase 1</string>
+    <string name="welcome_msg">Welcome To ALC 4.0</string>
+    <string name="button_activity_b_msg">About ALC</string>
+    <string name="button_activity_c_msg">My Profile</string>
+    <string name="profile_name_msg">Njuguna Peter, Rongai</string>
+    <string name="track_android">TRACK: Android</string>
+    <string name="text_country">COUNTRY: Kenya</string>
+    <string name="text_email">EMAIL: pndungu54@gmail.com</string>
+    <string name="text_phone">PHONE NUMBER: +254712705422</string>
+    <string name="text_username">SLACK USERNAME: @ptah</string>
+</resources>
